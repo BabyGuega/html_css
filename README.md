@@ -1,0 +1,1 @@
+#Apenas um projeto para treinar html/css e acrescentar ao portfólio. Quando fui estudar vue, vi que precisava melhorar o CSS
